@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pokiapi/static/css/main.49d8fc52.css",
+    "main.js": "/pokiapi/static/js/main.2d5cc8a1.js",
+    "static/js/453.baf231db.chunk.js": "/pokiapi/static/js/453.baf231db.chunk.js",
+    "index.html": "/pokiapi/index.html",
+    "main.49d8fc52.css.map": "/pokiapi/static/css/main.49d8fc52.css.map",
+    "main.2d5cc8a1.js.map": "/pokiapi/static/js/main.2d5cc8a1.js.map",
+    "453.baf231db.chunk.js.map": "/pokiapi/static/js/453.baf231db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49d8fc52.css",
+    "static/js/main.2d5cc8a1.js"
+  ]
+}
